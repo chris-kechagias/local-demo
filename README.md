@@ -10,9 +10,10 @@ Hands-on practice with Git workflows, branching strategies, and local-to-remote 
 ✅ Resolving merge conflicts  
 ✅ Local repository management  
 ✅ Pushing local changes to remote (GitHub)  
-✅ SSH authentication workflow  
+✅ SSH authentication workflow
 
 ## Branching Strategy Practiced
+
 ```bash
 # Create feature branch
 git checkout -b feature-name
@@ -28,10 +29,10 @@ git merge feature-name
 # Push to remote
 git push origin main
 ```
+
 ## Local Development
 
- Open button.html in your browser.
-
+Open button.html in your browser.
 
 ## Skills Demonstrated
 
@@ -42,5 +43,4 @@ git push origin main
 
 ---
 
-*Part of my AI Engineering learning roadmap (2025-2026)*
-
+_Part of my AI Engineering learning roadmap (2025-2026)_
