@@ -2,7 +2,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/CLI-Terminal-blue)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 
 Hands-on practice with Git workflows, branching strategies, and local-to-remote synchronization.
